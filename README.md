@@ -7,7 +7,6 @@ An application to detect whether an uploaded file is a resume based on its conte
 - [Features](#features)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Contributing](#contributing)
 - [License](#license)
 
 ## Overview
@@ -18,6 +17,12 @@ The Resume Detector App is designed to analyze text content in various file form
 
 - File format support: PDF, DOCX, TXT
 - Detection of resume-related keywords: education, experience, skills
+
+## Tech Stack
+
+- **Frontend:** HTML, CSS, JavaScript
+- **Frameworks:** Flask (Rendering), Django (Backend)
+- **Database:** MongoDB
 
 ## Installation
 
@@ -74,10 +79,6 @@ Now, you're ready to use the Resume Detector App locally. Upload a file using th
 ## Usage
 
 To use the application, follow the steps outlined in the [Installation](#installation) section. Once the application is running, open your web browser and navigate to [http://localhost:5000/](http://localhost:5000/). Upload a file using the provided form to check if it is a resume.
-
-## Contributing
-
-If you would like to contribute to the development of the Resume Detector App, please follow the [Contributing Guidelines](CONTRIBUTING.md).
 
 ## License
 
