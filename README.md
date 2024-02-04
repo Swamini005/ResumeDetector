@@ -16,7 +16,7 @@ The Resume Detector App is designed to analyze text content in various file form
 ## Features
 
 - File format support: PDF, DOCX, TXT
-- Detection of resume-related keywords: education, experience, skills
+- Detection of resume-related keywords , and parser 
 
 ## Tech Stack
 
