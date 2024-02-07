@@ -1,0 +1,5 @@
+Flask==2.0.1
+Flask-Uploads==0.2.1
+Werkzeug==2.0.1
+Flask-RESTful==0.3.10
+Flask-Ngrok==0.0.25
