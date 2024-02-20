@@ -74,7 +74,7 @@ Follow these steps to install and run the application:
 
 6. **Open your web browser and navigate to [http://localhost:5000/](http://localhost:5000/).**
 
-Now, you're ready to use the Resume Detector App locally. Upload a file using the provided form to check if it is a resume.
+Now, you're ready    to use the Resume Detector App locally. Upload a file using the provided form to check if it is a resume.
 
 ## Usage
 
