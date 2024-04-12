@@ -1,0 +1,67 @@
+.intro-section {
+  background-color: #f9f9f9;
+  padding: 80px 0;
+}
+
+.intro-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.intro-text {
+  max-width: 600px;
+}
+
+.intro-title {
+  font-size: 2.5rem;
+  color: #333;
+}
+
+.intro-description {
+  font-size: 1.2rem;
+  color: #666;
+  margin-bottom: 20px;
+}
+
+.intro-buttons {
+  display: flex;
+}
+
+.intro-button {
+  display: inline-block;
+  padding: 12px 24px;
+  margin-right: 20px;
+  border: none;
+  border-radius: 8px;
+  font-size: 1rem;
+  font-weight: bold;
+  text-decoration: none;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.intro-button.contact-btn {
+  background-color: #007bff;
+  color: #fff;
+}
+
+.intro-button.resume-btn {
+  background-color: #28a745;
+  color: #fff;
+}
+
+.intro-button:hover {
+  background-color: #0056b3;
+}
+
+.intro-button.start-test-btn {
+  background-color: #ffc107;
+  color: #333;
+}
+
+.intro-button.start-test-btn:hover {
+  background-color: #ffb300;
+}
