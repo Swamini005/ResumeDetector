@@ -20,7 +20,7 @@ The Resume Detector App is designed to analyze text content in various file form
 
 ## Tech Stack
 
-- **Frontend:** React JS
+- **Frontend:** ReactJS
 - **Frameworks:** Flask (Rendering), Django (Backend)
 - **Database:** MongoDB
 
